@@ -14,7 +14,7 @@ import javax.imageio.ImageIO;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 
-import edu.sru.brian.tictactoegame.TicTacInteraction;
+//import edu.sru.brian.tictactoegame.TicTacInteraction; //old import location
 import edu.sru.thangiah.nao.connection.SynchronizedConnectDemo;
 import edu.sru.thangiah.nao.demo.AutomatedMotion;
 import edu.sru.thangiah.nao.demo.BarcodeScanner;
@@ -25,6 +25,7 @@ import edu.sru.thangiah.nao.demo.HelloEarth;
 import edu.sru.thangiah.nao.demo.HelloWorldTutorial;
 import edu.sru.thangiah.nao.demo.Posture;
 import edu.sru.thangiah.nao.demo.SynchronizedDance;
+import edu.sru.thangiah.nao.demo.TicTacInteraction;
 import edu.sru.thangiah.nao.demo.Track;
 import edu.sru.thangiah.nao.demo.gui.CameraDemoFrame;
 import edu.sru.thangiah.nao.demo.gui.DiagnosticGUI;
