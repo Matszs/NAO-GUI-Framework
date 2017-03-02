@@ -357,7 +357,14 @@ public class DemoGui extends JFrame {
 				e.printStackTrace();
 			}
 			break;
-
+		case RedBall2:
+			try {
+				demo = new AutomatedMotion(connect);
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			break;
 		case Posture:
 			try {
 				demo = new Posture(connect);
