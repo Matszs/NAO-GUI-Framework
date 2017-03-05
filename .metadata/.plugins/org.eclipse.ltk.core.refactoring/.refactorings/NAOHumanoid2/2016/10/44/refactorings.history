@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete element from project &apos;NAOHumanoid2&apos;&#x0D;&#x0A;- Original project: &apos;NAOHumanoid2&apos;&#x0D;&#x0A;- Original element: &apos;NAOHumanoid2/src/edu.sru.emily.naotictacinteraction&apos;" description="Delete element" element1="/src&lt;edu.sru.emily.naotictacinteraction" element2="/src&lt;edu.sru.emily" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1477239345930" subPackages="false" version="1.0"/>
-</session>
